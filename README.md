@@ -75,7 +75,7 @@ También podemos enviar todos los archivos que tengan una extensión específica
 **git add \*.ext**
 
 O podemos enviar todos los archivos que hayan cambiado en nuestro proyecto de una sola vez
-
+añadiendo cosas en el desaroollpo
 **git add .**
 
 ### 4.1 - Eliminar cambio del stage
