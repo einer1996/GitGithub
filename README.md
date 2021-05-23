@@ -72,7 +72,7 @@ Podemos enviar archivos de manera individual con el siguiente comando
 
 También podemos enviar todos los archivos que tengan una extensión específica
 
-**git add \*.ext**
+**git add \*.ext**D
 
 O podemos enviar todos los archivos que hayan cambiado en nuestro proyecto de una sola vez
 añadiendo cosas en el desaroollpo
