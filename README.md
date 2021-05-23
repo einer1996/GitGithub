@@ -72,14 +72,15 @@ Podemos enviar archivos de manera individual con el siguiente comando
 
 También podemos enviar todos los archivos que tengan una extensión específica
 
-**git add \*.ext**D
+**git add \*.ext**
 
 O podemos enviar todos los archivos que hayan cambiado en nuestro proyecto de una sola vez
-añadiendo cosas en el desaroollpo
+
 **git add .**
 
 ### 4.1 - Eliminar cambio del stage
-Para esto simplemente utilizamos el comando que nos muestra git en pantalla al ejecutar git status y le agregamos el nombre del archivo con la extensión.
+Para esto simplemente utilizamos el comando que nos muestra git en pantalla al ejecutar git status y le agregamos el nombre del archivo con la extensión.D 
+texto de despedida
 
 ### 4.2 - Eliminar todos los cambios del Stage
 Simplemente usamos el comando
